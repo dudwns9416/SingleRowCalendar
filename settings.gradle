@@ -1,2 +1,2 @@
-include ':app', ':SingleRowCalendar'
+include ':SingleRowCalendar'
 rootProject.name='SingleRowCalendarSample'
